@@ -59,7 +59,7 @@ group :development, :test do
   gem 'byebug', '~> 9.0.6'
   gem 'factory_girl_rails', '~> 4.8.0'
   gem "faker", '~> 1.7.3'
-  gem 'i18n-tasks', '~> 0.9.15'
+  gem 'i18n-tasks', '~> 0.9.18'
   gem 'knapsack', '~> 1.13.3'
   gem 'launchy', '~> 2.4.3'
   gem 'letter_opener_web', '~> 1.3.1'
