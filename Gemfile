@@ -83,7 +83,7 @@ group :development do
   gem 'capistrano-bundler', '~> 1.2', require: false
   gem "capistrano-rails", '~> 1.2.3', require: false
   gem 'capistrano3-delayed-job', '~> 1.7.3'
-  gem 'mdl', '~> 0.4.0', require: false
+  gem 'mdl', '~> 0.7.0', require: false
   gem 'rvm1-capistrano3', '~> 1.4.0', require: false
   gem 'scss_lint', '~> 0.54.0', require: false
   gem 'web-console', '~> 3.3.0'
