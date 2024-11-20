@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.9'
 
-gem 'acts-as-taggable-on', '~> 4.0.0'
+gem 'acts-as-taggable-on', '~> 12.0.0'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'ahoy_matey', '~> 1.6.0'
 gem 'ancestry', '~> 2.2.2'
