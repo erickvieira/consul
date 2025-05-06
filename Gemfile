@@ -21,7 +21,7 @@ gem 'foundation-rails', '~> 6.2.4.0'
 gem 'foundation_rails_helper', '~> 2.0.0'
 gem 'graphiql-rails', '~> 1.4.1'
 gem 'graphql', '~> 1.6.3'
-gem 'groupdate', '~> 3.2.0'
+gem 'groupdate', '~> 6.6.0'
 gem 'initialjs-rails', '~> 0.2.0.5'
 gem 'invisible_captcha', '~> 0.9.2'
 gem 'jquery-rails', '~> 4.3.1'
@@ -75,7 +75,7 @@ group :test do
   gem 'database_cleaner', '~> 1.6.1'
   gem 'email_spec', '~> 2.1.0'
   gem 'poltergeist', '~> 1.15.0'
-  gem 'rspec-rails', '~> 3.6'
+  gem 'rspec-rails', '~> 8.0', '>= 8.0.0'
 end
 
 group :development do
